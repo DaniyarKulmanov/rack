@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 identity = ->(x) { x }
 
 middleware_list = [
